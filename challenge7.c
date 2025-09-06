@@ -14,3 +14,4 @@ int main(){
   }
   return 0;
 }
+//Inversion d'un Entier

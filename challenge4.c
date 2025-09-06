@@ -12,3 +12,4 @@ int main(){
   }
   return 0;
 }
+//Affichage des N Premiers Nombres Impairs

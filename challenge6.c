@@ -7,8 +7,10 @@ int main(){
 
   for (int i = 1;i <= n;i++)
   {
-    printf("%d\n",i * 2 );
+    printf("%d ",i * 2 );
 
   }
   return 0;
 }
+
+//Affichage des N Premiers Nombres Pair

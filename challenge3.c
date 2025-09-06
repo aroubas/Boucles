@@ -13,3 +13,4 @@ int main(){
   printf("la somme de %d numero est = %d",n,somme);
   return 0;
 }
+//Somme des N Entiers

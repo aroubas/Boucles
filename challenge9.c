@@ -2,7 +2,7 @@
 
 int main(){
   int n,count = 0;
-  printf("entrez une numero positif:\n");
+  printf("entrez une numero positif:");
   scanf("%d",&n);
   if (n == 0)
   {
@@ -18,3 +18,4 @@ printf("nombre de chiffre :%d",count);
 
 return 0;
 }
+//Compteur de Chiffres
